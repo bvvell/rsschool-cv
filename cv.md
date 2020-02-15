@@ -1,4 +1,4 @@
-#Biarnatski Uladzimir
+# Biarnatski Uladzimir
 1. I'm html coder with 7 eyars experience. Experienced in creating email newsletter, cross-browser layout, valid, semantic HTML and CSS.
 2. **Contacts:** _e-mail:_ vvbernacky@gmail.com, _telegram:_ @bvvell, _site:_ http://bvvell.ru/cv.html.
 3. **Skills:** Git, HTML, CSS, JS basics.
